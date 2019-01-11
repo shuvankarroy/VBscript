@@ -1,0 +1,1 @@
+A basic code for turning on - off all the keyboard notification lights in harmonic motion.

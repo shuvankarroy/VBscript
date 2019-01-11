@@ -1,0 +1,1 @@
+A basic VBScript code for converting text to sound or language.
